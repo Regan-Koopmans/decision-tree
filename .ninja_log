@@ -1,0 +1,21 @@
+# ninja log v5
+0	1381	0	DecisionTree	1300f34d1c86a0e2
+0	13	0	main.o	69a9fcaf26c27bb
+0	296	0	main.o	69a9fcaf26c27bb
+296	365	0	DecisionTree	3f84287b4f5ab3ee
+0	25	0	main.o	69a9fcaf26c27bb
+25	90	0	DecisionTree	3f84287b4f5ab3ee
+0	23	0	main.o	bb392eef52575fa6
+23	91	0	DecisionTree	3f84287b4f5ab3ee
+0	32	0	build/main.o	26590904680d2cda
+32	100	0	DecisionTree	65382cedb6570ae3
+0	35	0	build/main.o	26590904680d2cda
+35	107	0	DecisionTree	65382cedb6570ae3
+0	68	0	build/main.o	26590904680d2cda
+68	154	0	DecisionTree	65382cedb6570ae3
+0	32	0	build/main.o	26590904680d2cda
+32	103	0	DecisionTree	65382cedb6570ae3
+0	20	0	build/main.o	26590904680d2cda
+20	86	0	DecisionTree	65382cedb6570ae3
+0	24	0	build/main.o	26590904680d2cda
+24	91	0	DecisionTree	65382cedb6570ae3
